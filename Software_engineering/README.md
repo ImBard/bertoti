@@ -11,7 +11,6 @@ R: Engenharia de software facilita o desenvolvimento de uma aplicação, mantém
 
 
 24/02/2023 (Sexta-feira)  
-
 1- O que é eng. de software?
     projeto. O desenvolvimento de software é todo o processo de um projeto, não apenas programação, mas decisões sobre o projeto, boas práticas de programação, UI/UX,
     projeto como um todo. Tempo de programação, escala e compensações.
